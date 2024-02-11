@@ -1,5 +1,5 @@
 # LightGCN++
-Source code dataset for "Revisiting LightGCN: Unexpected Inflexibility, Inconsistency, and A Remedy Towards Improved Recommendation" under submission. 
+Source code dataset for **"Revisiting LightGCN: Unexpected Inflexibility, Inconsistency, and A Remedy Towards Improved Recommendation"** under submission. 
 
 ---
 
