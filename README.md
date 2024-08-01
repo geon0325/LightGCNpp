@@ -8,6 +8,8 @@ A supplementary document is available [here](supplementary_document.pdf).
 ---
 
 ## How to Run the Code
+The source code of LightGCN++ can be found [here](code).
+
 * To run LightGCN++ with the specific configuration for each dataset, simply run:
 ```
 ./run.sh
