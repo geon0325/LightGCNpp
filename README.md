@@ -21,6 +21,7 @@ python main.py --dataset=[DATASET NAME] --alpha [ALPHA VALUE] --beta [BETA VALUE
 e.g.,
 python main.py --dataset="yelp2018" --alpha 0.6 --beta -0.1 --gamma 0.1
 ```
+* By default, we recommend using $\alpha=0.6$, $\beta=-0.1$, and $\gamma=0.2$.
 
 ## Datasets
 We used five datasets: LastFM, MovieLens, Gowalla, Yelp, and Amazon. You can find them [here](data).
