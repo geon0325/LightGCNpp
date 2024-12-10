@@ -1,5 +1,5 @@
 # LightGCN++
-Source code dataset for **"Revisiting LightGCN: Unexpected Inflexibility, Inconsistency, and A Remedy Towards Improved Recommendation"** (RecSys 2024 Short Paper). 
+Source code and datasets for **"Revisiting LightGCN: Unexpected Inflexibility, Inconsistency, and A Remedy Towards Improved Recommendation"** (RecSys 2024 Short Paper). 
 
 ****Paper:**** [link](https://dl.acm.org/doi/10.1145/3640457.3688176)
 
