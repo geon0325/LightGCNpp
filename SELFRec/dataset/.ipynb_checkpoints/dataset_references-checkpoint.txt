@@ -1,0 +1,5 @@
+https://www.kaggle.com/datasets/skillsmuggler/amazon-ratings?resource=download
+https://grouplens.org/datasets/movielens/
+https://github.com/zhengrongqin/C2-Rec
+https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data
+https://github.com/tanatosuu/sgfcf/tree/main
