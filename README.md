@@ -33,7 +33,7 @@ python main.py --dataset="yelp2018" --alpha 0.6 --beta -0.1 --gamma 0.1
 We used five datasets: LastFM, MovieLens, Gowalla, Yelp, and Amazon. You can find them [here](data).
 
 ## SELFRec Version
-We also provide a code that runs in the SELFRec framework. You can find it [here](SELFRec).
+We also provide a code that runs in the [SELFRec](https://github.com/Coder-Yu/SELFRec) framework. You can find it [here](SELFRec).
 
 * To run LightGCN++ with the specific configuration for each dataset, simply run:
 ```
