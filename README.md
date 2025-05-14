@@ -40,6 +40,14 @@ We also provide a code that runs in the [SELFRec](https://github.com/Coder-Yu/SE
 ./run.sh
 ```
 
+The optimal hyperparameter configurations of each dataset are as follows:
+| Dataset         | LastFM | CiteULike | MovieLens-1M | Gowalla | Yelp  | Amazon-Sports | Amazon-Beauty | Amazon-Book | MovieLens-10M | Alibaba |
+|-----------------|--------|-----------|--------------|---------|-------|---------------|---------------|-------------|---------------|---------|
+| **α**           | 0.6    | 0.5       | 0.4          | 0.6     | 0.6   | 0.6           | 0.5           | 0.6         | 0.6           | 0.6     |
+| **β**           | -0.1   | -0.1      | 0.1          | -0.1    | -0.1  | -0.1          | 0.0           | -0.1        | -0.1          | 0.0     |
+| **γ**           | 0.0    | 0.4       | 0.0          | 0.2     | 0.0   | 0.0           | 0.2           | 0.2         | 0.0           | 0.1     |
+
+
 ## Acknowledgement
 This code is implemented based on the open source [LightGCN PyTorch code](https://github.com/gusye1234/LightGCN-PyTorch).
 This research was supported in part by the NAVER-Intel Co-Lab.
