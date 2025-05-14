@@ -37,7 +37,10 @@ We also provide a code that runs in the [SELFRec](https://github.com/Coder-Yu/SE
 
 * To run LightGCN++ with the specific configuration for each dataset, simply run:
 ```
-./run.sh
+./run.sh [DATASET]
+
+e.g., to run lastfm with its optimal hyperparameters:
+./run.sh lastfm
 ```
 
 The optimal hyperparameter configurations of each dataset are as follows:
