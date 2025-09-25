@@ -1,10 +1,11 @@
 # LightGCN++
 Source code and datasets for **"Revisiting LightGCN: Unexpected Inflexibility, Inconsistency, and A Remedy Towards Improved Recommendation"** (RecSys 2024 Short Paper). 
 
-****Paper:**** [link](https://dl.acm.org/doi/10.1145/3640457.3688176)
+- ****Paper:**** [link](https://dl.acm.org/doi/10.1145/3640457.3688176) (Supplementary document: [link](supplementary_document.pdf))
 
-****Supplementary document:**** [link](supplementary_document.pdf)
+The extended journal version is published in TORS.
 
+- ****Paper:**** [link](https://dl.acm.org/doi/10.1145/3760763)
 
 ## How to Run the Code
 The source code of LightGCN++ can be found [here](code).
